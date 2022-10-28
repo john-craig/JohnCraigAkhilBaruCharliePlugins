@@ -1,4 +1,7 @@
-charlie/client/CountingTrap.class
 org/johncraig/johncraigcharlieplugins/JohnCraigCharliePlugins.class
+charlie/sidebet/test/Shoe.class
+charlie/sidebet/rule/SideBetRule.class
+charlie/client/CountingTrap.class
 charlie/client/HumanAdvisor.class
+charlie/sidebet/view/SideBetView.class
 charlie/server/MyShoe01.class
