@@ -1,10 +1,14 @@
-/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/server/bot/HueyStay.java
-/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/sidebet/test/Shoe.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/bot/test/MyShoe.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/org/johncraig/johncraigcharlieplugins/JohnCraigCharliePlugins.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/sidebet/view/SideBetView.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/client/BasicStrategy.java
-/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/client/CountingTrap.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/server/bot/Dewey.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/client/Advisor.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/server/bot/Huey.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/server/bot/HueyStay.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/sidebet/test/Shoe.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/client/CountingTrap.java
+/home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/client/BotBasicStrategy.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/client/HumanAdvisor.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/server/MyShoe01.java
 /home/ibmuser/programming/by_language/java/JohnCraigCharliePlugins/src/main/java/charlie/sidebet/rule/SideBetRule.java
